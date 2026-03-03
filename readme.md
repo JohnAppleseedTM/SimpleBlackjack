@@ -32,7 +32,7 @@ Aces count as 11 or 1 (whichever keeps you under 22).
 ```bash
 git clone https://github.com/JohnAppleseedTM/SimpleBlackjack.git
 cd SimpleBlackjack
-python blackjack.py
+python game.py
 ```
 
 ## Project Structure
